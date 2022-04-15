@@ -1,52 +1,400 @@
 {
   "products": [
     {
-      "title": "jsldkf",
-      "type": 30,
-      "price": 600,
-      "description": "sdfsdfsdf",
-      "img": "https://www.omega-level.net/wp-content/uploads/2013/01/Astronaut-time.png",
-      "id": 3
+      "brand": "Krooks",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 4000,
+      "category": "women",
+      "image": "https://itk-assets.nyc3.cdn.digitaloceanspaces.com/2021/03/best-womens-shoes.jpg",
+      "id": 1
     },
     {
-      "title": "sdf",
-      "type": 20,
-      "price": 23445,
-      "description": "cxvsd",
-      "img": "https://www.industrialempathy.com/img/remote/ZiClJf-1920w.jpg",
+      "brand": "Nike",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 1200,
+      "category": "men",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/white-female-shoes-on-feet-royalty-free-image-912581410-1563805834.jpg?crop=1.00xw:0.752xh;0,0.127xh&resize=1200:*",
+      "id": 2
+    },
+    {
+      "brand": "Adidas",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 1200,
+      "category": "kids",
+      "image": "https://cdn.shopify.com/s/files/1/1821/4215/files/kids-category_1024x1024.jpg?v=1631723011",
+      "id": 19
+    },
+    {
+      "brand": "Keen",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 2000,
+      "category": "brand",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sandals-1622127128.jpg?crop=1.00xw:0.837xh;0,0.0773xh&resize=1200:*",
       "id": 4
     },
     {
-      "title": "weee",
-      "type": 20,
-      "price": 2222,
-      "description": "dddddd",
-      "img": "https://www.industrialempathy.com/img/remote/ZiClJf-1920w.jpg",
+      "brand": "Sperry",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 2000,
+      "category": "accessories",
+      "image": "https://www.bewooden.com/picture/5d1ce293a3a7c/w960/0-geomess-socks.jpg",
       "id": 5
     },
     {
-      "title": "maisalnel",
-      "type": 30,
-      "price": 2000,
-      "description": "",
-      "img": "asdf",
+      "brand": "Bogs",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 6000,
+      "category": "women",
+      "image": "https://johnlewis.scene7.com/is/image//JohnLewis/womens-shoes_hyb1_100222?resmode=sharp",
       "id": 6
     },
     {
-      "title": "amirhan",
-      "type": 30,
-      "price": 987,
-      "description": "as",
-      "img": "asd",
+      "brand": "Sport",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 4200,
+      "category": "men",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sandals-1622127128.jpg?crop=1.00xw:0.837xh;0,0.0773xh&resize=1200:*",
       "id": 7
     },
     {
-      "title": "asd",
-      "type": 10,
-      "price": 2000,
-      "description": "",
-      "img": "ss",
+      "brand": "K-swiss",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 3000,
+      "category": "kids",
+      "image": "https://m.media-amazon.com/images/I/71RIpixXUUL._AC_UY395_.jpg",
       "id": 8
+    },
+    {
+      "brand": "Lugz",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 2000,
+      "category": "brand",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sandals-1622127128.jpg?crop=1.00xw:0.837xh;0,0.0773xh&resize=1200:*",
+      "id": 9
+    },
+    {
+      "brand": "Sporto",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 2000,
+      "category": "accessories",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/xwldm2jnomnparuvomh7/everyday-lightweight-training-crew-socks-B2KdmN.png",
+      "id": 10
+    },
+    {
+      "brand": "Steve Madden",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 2000,
+      "category": "women",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/375777/01/sv01/fnd/IND/fmt/png/RS-X-OQ-Women's-Shoes",
+      "id": 11
+    },
+    {
+      "brand": "TOMS",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 2000,
+      "category": "men",
+      "image": "https://marvel-b1-cdn.bc0a.com/f00000000114841/www.florsheim.com/shop/resources/images/index/SS22_Refresh1_CasualHighlandCanvas.jpg",
+      "id": 12
+    },
+    {
+      "brand": "Nunn Bush",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 6000,
+      "category": "kids",
+      "image": "https://belenkacdn.com/media/2020/06/2/9/Kids-mailing-banner-10-size-blog-detail-v-1.jpg",
+      "id": 13
+    },
+    {
+      "brand": "Sport",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 62000,
+      "category": "brand",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sandals-1622127128.jpg?crop=1.00xw:0.837xh;0,0.0773xh&resize=1200:*",
+      "id": 14
+    },
+    {
+      "brand": "Cole",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 8200,
+      "category": "accessories",
+      "image": "https://mrpg.scene7.com/is/image/MRP/01_1713451894_SI_00?$preset$&wid=455",
+      "id": 15
+    },
+    {
+      "brand": "Merreli",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 12000,
+      "category": "men",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/7c2fff38-9f89-40f1-bbcf-ffbfaab5adbc/wio-8-road-running-shoes-xNW8fz.png",
+      "id": 16
+    },
+    {
+      "brand": "Teva",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 1800,
+      "category": "women",
+      "image": "https://ik.imagekit.io/sqhmihmlh/https:/images.footlocker.com/is/image/FLEU/315241630102?wid=620&hei=620&fmt=png-alpha&ik-sdk-version=javascript-1.3.6&tr=c-limit%2Cw-500%2Ch-%2Cdefault+image-https%3A%2F%2Fik.imagekit.io%2Fsqhmihmlh%2Fmissing_image.jpg",
+      "id": 17
+    },
+    {
+      "brand": "Sport",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 4200,
+      "category": "men",
+      "image": "https://cdn.shopify.com/s/files/1/0231/2060/9358/products/PDP_BW_Profile_Transparent_2000x1045_ac945d60-0a03-405e-9cb7-c74fdd8199ae.png?v=1620917941",
+      "id": 18
+    },
+    {
+      "brand": "Reebook",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 1000,
+      "category": "kids",
+      "image": "https://www.cleanersw8.com/images/u/shoes%20kids-666wzp.jpg",
+      "id": 3
+    },
+    {
+      "brand": "Fergie",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 5000,
+      "category": "brand",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sandals-1622127128.jpg?crop=1.00xw:0.837xh;0,0.0773xh&resize=1200:*",
+      "id": 20
+    },
+    {
+      "brand": "PUMA",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 2430,
+      "category": "accessories",
+      "image": "https://www.ubuy.qa/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjFsSlJkZUkrWEwuX0FDX1NMMTE4MV8uanBn.jpg",
+      "id": 21
+    },
+    {
+      "brand": "Adidas",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 4000,
+      "category": "women",
+      "image": "https://www.efootwear.eu/media/catalog/product/cache/image/650x650/0/0/0000208691987_01_rz_1.jpg",
+      "id": 22
+    },
+    {
+      "brand": "Polo",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 7000,
+      "category": "men",
+      "image": "https://bluesoleshoes.com/wp-content/uploads/2021/03/3204129-copy-1.jpg",
+      "id": 23
+    },
+    {
+      "brand": "Puma",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 5000,
+      "category": "kids",
+      "image": "https://www.newbalance.com/dw/image/v2/AAGI_PRD/on/demandware.static/-/Library-Sites-NBUS-NBCA/default/dw653e7f89/images/page-designer/2021/april/11714_Comp_R2_Image2.jpg",
+      "id": 24
+    },
+    {
+      "brand": "Euro",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 2700,
+      "category": "brand",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sandals-1622127128.jpg?crop=1.00xw:0.837xh;0,0.0773xh&resize=1200:*",
+      "id": 25
+    },
+    {
+      "brand": "Vans",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 2000,
+      "category": "accessories",
+      "image": "https://media.takealot.com/covers_tsins/57571850/57571850-1-zoom.jpeg",
+      "id": 26
+    },
+    {
+      "brand": "Adidas",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 2000,
+      "category": "women",
+      "image": "https://i.pinimg.com/474x/5d/e4/77/5de477f846448bfad8a71a4f5f29e88c.jpg",
+      "id": 27
+    },
+    {
+      "brand": "Puma",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 2000,
+      "category": "men",
+      "image": "https://m.media-amazon.com/images/I/41Leu3gBUFL.jpg",
+      "id": 28
+    },
+    {
+      "brand": "Trolls",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 2000,
+      "category": "kids",
+      "image": "https://www.newbalance.com/dw/image/v2/AAGI_PRD/on/demandware.static/-/Library-Sites-NBUS-NBCA/default/dwfd8b3a9d/images/page-designer/2022/january/13500_Comp_E_Image2.jpg?sw=991&sfrm=jpg",
+      "id": 29
+    },
+    {
+      "brand": "Rachel",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 2500,
+      "category": "brand",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sandals-1622127128.jpg?crop=1.00xw:0.837xh;0,0.0773xh&resize=1200:*",
+      "id": 30
+    },
+    {
+      "brand": "XOXO",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 1200,
+      "category": "accessories",
+      "image": "http://www.dhakabaazar.com/uploads/pro-biker-motorbike-racing-full-finger-gloves-m-l-xl--3528glv-min.jpg",
+      "id": 31
+    },
+    {
+      "brand": "Zodiac",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 3200,
+      "category": "women",
+      "image": "https://dimg.dillards.com/is/image/DillardsZoom/nav2/naturalizer-vanessa-strappy-evening-dress-block-heel-sandals/00000000_zi_af4519d3-c238-46a2-aeb0-e42a8e090bc5.jpg",
+      "id": 32
+    },
+    {
+      "brand": "Volverine",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 2300,
+      "category": "men",
+      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/7104085B-2F4E-7A3B-1BF2-DB983EA92F70.jpg",
+      "id": 33
+    },
+    {
+      "brand": "Nike",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 1500,
+      "category": "kids",
+      "image": "https://nb.scene7.com/is/image/NB/iv990gl5_nb_02_i?$pdpflexf2$&wid=440&hei=440",
+      "id": 34
+    },
+    {
+      "brand": "Adidas",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 3000,
+      "category": "brand",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sandals-1622127128.jpg?crop=1.00xw:0.837xh;0,0.0773xh&resize=1200:*",
+      "id": 35
+    },
+    {
+      "brand": "Nike",
+      "description": "Men's Arizona Desert Soil Footbed Sandal",
+      "price": 2000,
+      "category": "accessories",
+      "image": "https://m.media-amazon.com/images/I/51Xw64OtSPL.jpg",
+      "id": 36
+    },
+    {
+      "brand": "Adidas",
+      "description": "qwertgh",
+      "price": 2000,
+      "category": "kids",
+      "image": "https://4.kixify.com/sites/default/files/imagecache/product_full/product/2021/03/12/p_32092346_182051216_526021.png",
+      "id": 37
+    },
+    {
+      "brand": "12345678",
+      "description": "123456789",
+      "price": 990,
+      "category": "women",
+      "image": "https://brand.assets.adidas.com/image/upload/f_auto,q_auto,fl_lossy/enCA/Images/ca-fw21-originals-forum-july13-evergreen-plp-iwp-d_tcm185-720216.jpg",
+      "id": 38
+    },
+    {
+      "brand": "12345678",
+      "description": "123456789",
+      "price": 999,
+      "category": "women",
+      "image": "https://5.imimg.com/data5/AD/AO/WB/ANDROID-50361426/1554790834323-jpg-500x500.jpg",
+      "id": 39
+    },
+    {
+      "brand": "12345678",
+      "description": "123456789",
+      "price": 9999,
+      "category": "men",
+      "image": "https://www.russellandbromley.co.uk/ccstore/v1/images/?source=/file/v8855412654732114171/products/373470_xlarge.jpg&height=940&width=940",
+      "id": 40
+    },
+    {
+      "brand": "Gerger Sport",
+      "description": "Winter cross",
+      "price": 4500,
+      "category": "men",
+      "image": "https://i5.walmartimages.com/asr/aa4e7c8a-7bd9-4568-965f-032e9548f9eb.2a0e5d230ade17adee51a3ec16e6a95f.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "id": 41
+    },
+    {
+      "brand": "Honor",
+      "description": "Leather bear from North Korea",
+      "price": 2300,
+      "category": "men",
+      "image": "https://www.misiuacademy.com/wp-content/uploads/2019/03/ress-1.jpg",
+      "id": 42
+    }
+  ],
+  "likes": [
+    {
+      "user": "admin@mike.com",
+      "itemId": 4,
+      "id": 3
+    },
+    {
+      "user": "maysalbek1972@gmail.com",
+      "itemId": 1,
+      "id": 4
+    },
+    {
+      "user": "admin@mike.com",
+      "itemId": 1,
+      "id": 6
+    },
+    {
+      "user": "admin@mike.com",
+      "itemId": 2,
+      "id": 7
+    },
+    {
+      "user": "maysalbek1972@gmail.com",
+      "itemId": 19,
+      "id": 9
+    },
+    {
+      "user": "maysalbek1972@gmail.com",
+      "itemId": 15,
+      "id": 10
+    },
+    {
+      "user": null,
+      "itemId": 2,
+      "id": 12
+    },
+    {
+      "user": null,
+      "itemId": 4,
+      "id": 13
+    },
+    {
+      "user": null,
+      "itemId": 19,
+      "id": 14
+    },
+    {
+      "user": "maysalbek1972@gmail.com",
+      "itemId": 2,
+      "id": 15
+    }
+  ],
+  "comments": [
+    {
+      "author": "admin@mike.com",
+      "title": "sss",
+      "prodId": 2,
+      "id": 2
     }
   ]
 }
